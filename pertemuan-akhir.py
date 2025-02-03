@@ -52,7 +52,7 @@ class Truk(Kendaraan):
 
 # Daftar kendaraan
 daftar_kendaraan = [
-    Mobil("Toyota Avanza", 2021, "B1234XYZ", "Mobil dengan kapasitas 7 penumpang."),
+    Mobil("Toyota Inova", 2021, "B1234XYZ", "Mobil dengan kapasitas 7 penumpang."),
     Motor("Honda Supra", 2019, "B5678ABC", "Motor tipe bebek."),
     Truk("Hino Ranger", 2018, "B9876DEF", "Truk dengan kapasitas muatan 15 ton.")
 ]
